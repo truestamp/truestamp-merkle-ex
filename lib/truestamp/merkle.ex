@@ -99,8 +99,8 @@ defmodule Truestamp.Merkle do
   - `proof_to_binary/1` raises `ArgumentError` for a proof that is not well formed; it is
     for proofs you produced.
 
-  [interop]: https://github.com/truestamp/truestamp-merkle-elixir/tree/main/vectors/interop
-  [bench]: https://github.com/truestamp/truestamp-merkle-elixir/blob/main/bench/performance.exs
+  [interop]: https://github.com/truestamp/truestamp-merkle-ex/tree/main/vectors/interop
+  [bench]: https://github.com/truestamp/truestamp-merkle-ex/blob/main/bench/performance.exs
   """
 
   # The public API. Each function delegates to the internal module that owns it:

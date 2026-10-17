@@ -16,8 +16,8 @@ file carries the reasoning.
 Do not open a public GitHub issue for a security report. Use one of these private channels:
 
 1. **GitHub private vulnerability report** (preferred), at
-   <https://github.com/truestamp/truestamp-merkle-elixir/security/advisories/new>.
-2. **Email** to <security@truestamp.com>, with "truestamp-merkle-elixir" in the subject
+   <https://github.com/truestamp/truestamp-merkle-ex/security/advisories/new>.
+2. **Email** to <security@truestamp.com>, with "truestamp-merkle-ex" in the subject
    line.
 
 Include a minimal reproduction where you can: the entries, the proof and the root, and what
@@ -234,4 +234,4 @@ none of which CI runs. The code may well run on earlier Elixir releases, but 1.1
 oldest minor release CI tests, so it is what `mix.exs` requires. Beyond that the
 module depends only on `:crypto`, `Base`, `Bitwise`, and the standard library.
 
-[interop]: https://github.com/truestamp/truestamp-merkle-elixir/tree/main/vectors/interop
+[interop]: https://github.com/truestamp/truestamp-merkle-ex/tree/main/vectors/interop

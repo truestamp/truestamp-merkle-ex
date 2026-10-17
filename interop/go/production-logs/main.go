@@ -7,7 +7,7 @@
 // v1.0.4 and serverless-log, and the ics23 v0.11.0 Tendermint vectors, all held
 // to transparency-dev/merkle v0.0.2 and an RFC 9162 reference.
 //
-// In the truestamp-merkle-elixir repository the program is
+// In the truestamp-merkle-ex repository the program is
 // interop/go/production-logs/ and its fixture is
 // vectors/interop/production-logs.json. From the program directory:
 //

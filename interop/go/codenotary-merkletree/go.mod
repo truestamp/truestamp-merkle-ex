@@ -1,4 +1,4 @@
-module github.com/truestamp/truestamp-merkle-elixir/interop/go/codenotary-merkletree
+module github.com/truestamp/truestamp-merkle-ex/interop/go/codenotary-merkletree
 
 go 1.26.0
 

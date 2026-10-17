@@ -1,4 +1,4 @@
-module github.com/truestamp/truestamp-merkle-elixir/interop/go/production-logs
+module github.com/truestamp/truestamp-merkle-ex/interop/go/production-logs
 
 go 1.25.0
 

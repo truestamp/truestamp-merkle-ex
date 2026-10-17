@@ -1,4 +1,4 @@
-module github.com/truestamp/truestamp-merkle-elixir/interop/go/cometbft-crypto-merkle
+module github.com/truestamp/truestamp-merkle-ex/interop/go/cometbft-crypto-merkle
 
 go 1.26.0
 

@@ -1,4 +1,4 @@
-module github.com/truestamp/truestamp-merkle-elixir/interop/go/transparency-dev-merkle
+module github.com/truestamp/truestamp-merkle-ex/interop/go/transparency-dev-merkle
 
 go 1.22
 

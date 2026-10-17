@@ -13,7 +13,7 @@ functions.
 ## Layout
 
 In the truestamp_merkle repository the program is `interop/go/sigsum-go/`
-(Go module `github.com/truestamp/truestamp-merkle-elixir/interop/go/sigsum-go`),
+(Go module `github.com/truestamp/truestamp-merkle-ex/interop/go/sigsum-go`),
 its fixture file is `vectors/interop/sigsum-go.json`, and the library's own
 known answers are `vectors/merkle.json`. The library's test suite runs, from
 this directory:

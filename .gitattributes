@@ -1,0 +1,3 @@
+# The Go programs under interop/ check the library against upstream implementations.
+# They are not the library, so GitHub's language statistics leave them out.
+/interop/** linguist-detectable=false

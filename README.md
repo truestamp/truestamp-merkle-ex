@@ -34,7 +34,7 @@ binary = Truestamp.Merkle.proof_to_binary(proof)
 Until it is on Hex, depend on it by commit:
 
 ```elixir
-{:truestamp_merkle, github: "truestamp/truestamp-merkle-elixir", ref: "<full commit id>"}
+{:truestamp_merkle, github: "truestamp/truestamp-merkle-ex", ref: "<full commit id>"}
 ```
 
 The module documentation covers every function, and [SECURITY.md](SECURITY.md) what a
@@ -281,6 +281,6 @@ Apache License 2.0. See [LICENSE](LICENSE).
 
 Copyright (c) 2025-2026 Truestamp, Inc.
 
-[interop]: https://github.com/truestamp/truestamp-merkle-elixir/blob/main/vectors/interop/README.md
-[bench]: https://github.com/truestamp/truestamp-merkle-elixir/blob/main/bench/performance.exs
-[bulk]: https://github.com/truestamp/truestamp-merkle-elixir/blob/main/bench/proof_generation_benchmark.exs
+[interop]: https://github.com/truestamp/truestamp-merkle-ex/blob/main/vectors/interop/README.md
+[bench]: https://github.com/truestamp/truestamp-merkle-ex/blob/main/bench/performance.exs
+[bulk]: https://github.com/truestamp/truestamp-merkle-ex/blob/main/bench/proof_generation_benchmark.exs

@@ -5,7 +5,7 @@ defmodule Truestamp.Merkle.MixProject do
   use Mix.Project
 
   @version "0.1.0"
-  @source_url "https://github.com/truestamp/truestamp-merkle-elixir"
+  @source_url "https://github.com/truestamp/truestamp-merkle-ex"
 
   def project do
     [

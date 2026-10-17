@@ -1,4 +1,4 @@
-module github.com/truestamp/truestamp-merkle-elixir/interop/go/certificate-transparency-go
+module github.com/truestamp/truestamp-merkle-ex/interop/go/certificate-transparency-go
 
 go 1.26.0
 

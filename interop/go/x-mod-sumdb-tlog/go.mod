@@ -1,4 +1,4 @@
-module github.com/truestamp/truestamp-merkle-elixir/interop/go/x-mod-sumdb-tlog
+module github.com/truestamp/truestamp-merkle-ex/interop/go/x-mod-sumdb-tlog
 
 go 1.26.0
 

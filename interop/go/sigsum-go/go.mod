@@ -1,4 +1,4 @@
-module github.com/truestamp/truestamp-merkle-elixir/interop/go/sigsum-go
+module github.com/truestamp/truestamp-merkle-ex/interop/go/sigsum-go
 
 go 1.25.0
 

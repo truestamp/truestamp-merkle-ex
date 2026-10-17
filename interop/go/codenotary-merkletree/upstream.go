@@ -28,8 +28,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/truestamp/truestamp-merkle-elixir/interop/go/codenotary-merkletree/internal/assert"
-	"github.com/truestamp/truestamp-merkle-elixir/interop/go/codenotary-merkletree/internal/testing"
+	"github.com/truestamp/truestamp-merkle-ex/interop/go/codenotary-merkletree/internal/assert"
+	"github.com/truestamp/truestamp-merkle-ex/interop/go/codenotary-merkletree/internal/testing"
 )
 
 //go:embed testdata/data_test.go.txt testdata/tree_test.go.txt testdata/mth_test.go.txt testdata/example_test.go.txt LICENSE-codenotary-merkletree

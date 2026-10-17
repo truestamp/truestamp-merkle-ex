@@ -35,9 +35,9 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/truestamp/truestamp-merkle-elixir/interop/go/codenotary-merkletree/internal/assert"
-	fmt "github.com/truestamp/truestamp-merkle-elixir/interop/go/codenotary-merkletree/internal/quietfmt"
-	"github.com/truestamp/truestamp-merkle-elixir/interop/go/codenotary-merkletree/internal/testing"
+	"github.com/truestamp/truestamp-merkle-ex/interop/go/codenotary-merkletree/internal/assert"
+	fmt "github.com/truestamp/truestamp-merkle-ex/interop/go/codenotary-merkletree/internal/quietfmt"
+	"github.com/truestamp/truestamp-merkle-ex/interop/go/codenotary-merkletree/internal/testing"
 )
 
 // BEGIN mth_test.go:28-38
