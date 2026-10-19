@@ -13,15 +13,27 @@ file carries the reasoning.
 
 ## Reporting a vulnerability
 
-Do not open a public GitHub issue for a security report. Use one of these private channels:
+<!-- Shared with the SECURITY.md files in truestamp/.github and truestamp-cli. Keep this
+section the same in all three, apart from the repository name and the list of what to
+include, and in line with https://www.truestamp.com/security#reporting. -->
 
-1. **GitHub private vulnerability report** (preferred), at
+Do not open a public issue, discussion, or pull request for a security report. Report it
+privately instead:
+
+1. **GitHub private vulnerability reporting** (preferred), at
    <https://github.com/truestamp/truestamp-merkle-ex/security/advisories/new>.
-2. **Email** to <security@truestamp.com>, with "truestamp-merkle-ex" in the subject
-   line.
+2. **Email** to <security@truestamp.com>, with "truestamp-merkle-ex" in the subject line.
 
 Include a minimal reproduction where you can: the entries, the proof and the root, and what
 you expected to happen. Only the latest commit on `main` is supported.
+
+We aim to acknowledge your report within three business days, and to tell you whether we
+could reproduce it and what we plan to do. Please give us 90 days before publishing
+details, or a shorter window if we agree on one.
+
+Scope, safe harbor, and the rest of the terms are in
+[Reporting Security Issues](https://www.truestamp.com/security#reporting) on
+truestamp.com. If anything here disagrees with that page, that page applies.
 
 ## What a proof attests
 
